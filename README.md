@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Andaloussi
 
-<!--
-**Andaloussi212/Andaloussi212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en BUT Informatique (1ère année)  
+🐧 Utilisateur Linux (Fedora & Arch)  
+💻 Intéressé par le développement et les systèmes  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+
+- HTML / CSS  
+- Java (POO)  
+- PL/SQL  
+- Linux  
+
+---
+
+## 📚 En cours d’apprentissage
+
+- Git  
+- Docker  
+- Bonnes pratiques de développement  
+
+---
+
+## 🚀 Objectif
+
+Construire des bases solides en développement et systèmes.
