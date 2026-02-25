@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Andaloussi
+# 👋 Salut, moi c'est 4ndaloussi
 
 🎓 Étudiant en BUT Informatique (1ère année)  
 🐧 Utilisateur Linux (Fedora & Arch)  
